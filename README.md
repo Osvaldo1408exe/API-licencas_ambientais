@@ -1,8 +1,6 @@
 # API-Sistema licenças ambientais
 Esta é uma API RESTful desenvolvida em PHP e PostgreSQL para gerenciar licenças. Oferece endpoints para criar, recuperar e atualizar  registros das licenças ambientais, além de fornecer algumas funções.
 
-Está API foi criada para ser consumida por um sistema de gerenciamento de licenças ambientais, junto com Postgres.
-
 ## Pré-requisitos
 
 Antes de começar, certifique-se de ter o seguinte instalado em seu sistema:
